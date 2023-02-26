@@ -13,6 +13,8 @@ body{
     height: 100vh;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .sec_sobre{
