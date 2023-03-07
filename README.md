@@ -1,5 +1,5 @@
 ## Em construção
 
-# portfolio
+# Portfolio
 
 site do portfolio de meus projetos utilizando html, javascript e css 
